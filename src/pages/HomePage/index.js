@@ -19,6 +19,10 @@ export class HomePage extends React.Component {
       <main className="homePage">
         <header className="header">
           <img src={logo} className="logo" alt="logo" />
+          <blockquote>
+                    <p>"If anyone thirsts, let him come to me and drink. Whoever believes in me, as the Scripture has said, 'Out of his heart will flow rivers of living water.'"</p>
+                    <footer>John 7:37-38 [ESV]</footer>
+          </blockquote>
         </header>
         <article className="content">
           <About />

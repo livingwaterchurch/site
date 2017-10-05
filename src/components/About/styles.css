@@ -45,13 +45,6 @@
   margin-top: 1rem;
 }
 
-.icon {
-  width: 2.25rem;
-  height: 2.25rem;
-  color: #d77158;
-  margin-right: .75rem;
-}
-
 .about section {
   font-size: 1.1rem;
   width: 100%;
@@ -62,11 +55,11 @@
 
 @media (min-width: 50rem) {
   .about section {
-    width: calc(50% - 1rem);
-  }
+    width: calc(50% - 3rem);
+    margin-left: 3rem;
+    }
   .about section:nth-child(2n-1) { margin-left: 2rem; }
   .about section:last-child:nth-child(2n) {
     margin-right: auto;
   }
-
 }

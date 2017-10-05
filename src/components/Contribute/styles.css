@@ -1,5 +1,5 @@
 .contribute {
-  margin-top: 3rem;
+  margin-top: 0;
   text-align: center;
   padding: 2rem;
   background-color: lightblue;
@@ -16,7 +16,6 @@
 }
 
 .contribute p {
-  max-width: 45rem;
   margin: 1rem auto 1.5rem;
-  text-align: left;
+  text-align: centre;
 }
