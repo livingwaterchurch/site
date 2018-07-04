@@ -17,7 +17,7 @@ function Contribute() {
       <p>
         <strong>Meetings</strong><br />
         Sundays 10:30<br />
-        Winnall Community Centre<br />
+        Winnall Primary School<br />
         Garbett Road<br />
         Winchester<br />
         SO23 0NY<br />
